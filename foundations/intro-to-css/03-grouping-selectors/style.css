@@ -9,7 +9,8 @@
   background-color: yellow;
 }
 
-.first-button.second-button {
+.first-button,
+.second-button {
   font-size: 28px;
   font-family: "Helvetica", "Times New Roman", serif;
 }
